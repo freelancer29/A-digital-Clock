@@ -3,7 +3,7 @@ This is a clock that displays digitally
 
 ### Screenshot
 
-[](./images/%7B0A90AF12-BF8F-4C0C-BB43-FC1CF6AB784B%7D.jpg)
+![](./images/digital.jpg)
 
 ### Links
 
