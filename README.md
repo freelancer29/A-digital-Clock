@@ -18,7 +18,6 @@ This is a clock that displays digitally
 - Flexbox
 - Javascript
 
-## It is not responsive on all device yet, but i will update that soon.
 
 ## Author
 
