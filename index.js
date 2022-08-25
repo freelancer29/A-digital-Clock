@@ -10,7 +10,7 @@ function digitalClock() {
     let s = time.getSeconds();
     let ampm = 'PM';
 
-    if (h > 24) {
+    if (h > 12) {
         h = h - 12;
         ampm = "PM";
     }
